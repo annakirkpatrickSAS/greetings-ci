@@ -1,3 +1,12 @@
+## [0.3.1](https://github.com/annakirkpatrickSAS/greetings-ci/compare/v0.3.0...v0.3.1) (2024-02-06)
+
+
+### Bug Fixes
+
+* syntax for reference used in artifact versioning ([837914c](https://github.com/annakirkpatrickSAS/greetings-ci/commit/837914cf0327f05f5e790d712ce9309e7890a5bc))
+
+
+
 # [0.3.0](https://github.com/annakirkpatrickSAS/greetings-ci/compare/v0.2.0...v0.3.0) (2024-02-06)
 
 
