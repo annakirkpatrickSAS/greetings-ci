@@ -1,4 +1,13 @@
-# 0.1.0 (2024-02-06)
+# [0.2.0](https://github.com/annakirkpatrickSAS/greetings-ci/compare/v0.1.0...v0.2.0) (2024-02-06)
+
+
+### Features
+
+* upload artifact ([7d2cee6](https://github.com/annakirkpatrickSAS/greetings-ci/commit/7d2cee650a65459627896e14ac8191b59fdfd3dc))
+
+
+
+# [0.1.0](https://github.com/annakirkpatrickSAS/greetings-ci/compare/fdb08fe1e32e7501f759a9912244235aee4805b5...v0.1.0) (2024-02-06)
 
 
 ### Bug Fixes
